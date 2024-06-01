@@ -1,5 +1,5 @@
 # Credit-Risk-Classification
-![image](https://github.com/carojasp12/Credit-Risk-Classification/assets/152667250/0f0dbc32-1635-4457-bd18-f0dcaa3ae539)
+![image](https://github.com/carojasp12/Credit-Risk-Classification/assets/152667250/3d012115-6934-4d44-b50f-b86e798f8542)
 
 ## Overview of the Analysis
 In this project, various techniques were employed to train and evaluate a model designed to assess loan risk. Utilizing a dataset of historical lending activity from a peer-to-peer lending services company, the goal was to construct a model capable of finding the creditworthiness of borrowers. The process involved splitting the data into training and testing sets and applying a logistic regression model with the original data to predict loan status. The peer-to-peer lending services dataset includes the following variables:
@@ -39,7 +39,6 @@ We use logistic regression due to its effectiveness in binary classification tas
 ### Classification report for the model:
 
 ![Screenshot 2024-06-01 152710](https://github.com/carojasp12/Credit-Risk-Classification/assets/152667250/d09291f5-3fdb-4b7c-a38d-ffc7a3fd4e03)
-
 
 - The model has a precision of 100% and a recall of 100% for healthy loans. For risky loans, the precision is 87% and the recall is 89%. The total accuracy of the model is 99%.
 
