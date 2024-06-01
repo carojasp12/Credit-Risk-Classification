@@ -22,8 +22,8 @@ To begin the analysis, we first split the data into training and testing sets as
 ### Create a Logistic Regression Model with the Original Data
 We use logistic regression due to its effectiveness in binary classification tasks to predict loan risk. The following steps outline the process:
 
-1.	We fit the logistic regression model with the training data (X_train and y_train). This process trains the model to learn the relationship between the features and the loan status.
-2.	Using the fitted model, we generate predictions for the testing data labels. This involves using the testing feature data (X_test) to predict the risk level of the loans.
+1.	We fit the logistic regression model with the training data X_train and y_train. This process trains the model to learn the relationship between the features and the loan status.
+2.	Using the fitted model, we generate predictions for the testing data labels. This involves using the testing feature data X_test to predict the risk level of the loans.
 3.	To evaluate the performance of the model, we generate a confusion matrix and print a classification report to assess the model's accuracy, precision, recall, and F1-score.
 
 
