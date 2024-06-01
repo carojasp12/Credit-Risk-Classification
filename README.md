@@ -3,14 +3,14 @@
 
 ## Overview of the Analysis
 In this project, various techniques were employed to train and evaluate a model designed to assess loan risk. Utilizing a dataset of historical lending activity from a peer-to-peer lending services company, the goal was to construct a model capable of finding the creditworthiness of borrowers. The process involved splitting the data into training and testing sets and applying a logistic regression model with the original data to predict loan status. The peer-to-peer lending services dataset includes the following variables:
-•	loan_size
-•	interest_rate
-•	borrower_income
-•	debt_to_income
-•	num_of_accounts
-•	derogatory_marks
-•	total_debt
-•	loan_status
+-	loan_size
+-	interest_rate
+-	borrower_income
+-	debt_to_income
+-	num_of_accounts
+-	derogatory_marks
+-	total_debt
+-	loan_status
 
 ### Split the Data into Training and Testing Sets
 To begin the analysis, we first split the data into training and testing sets as follows:
