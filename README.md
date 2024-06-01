@@ -30,7 +30,7 @@ We use logistic regression due to its effectiveness in binary classification tas
 
 ### Confusion matrix for the model:
 
-![Screenshot 2024-06-01 152252](https://github.com/carojasp12/Credit-Risk-Classification/assets/152667250/56aad5b0-526a-4a4c-b029-b14cbd38a43e)
+![Screenshot 2024-06-01 152252](https://github.com/carojasp12/Credit-Risk-Classification/assets/152667250/451840c5-378a-432a-8b22-ea47d8479521)
 
 - The model predicted 18,679 as healthy loans correctly and 80 as healthy loans incorrectly from a total loan status of 18,759 which were healthy.
 - The model predicted 558 as high risk loans correctly and 67 high risk loans incorrectly from a total loan status of 625 which were high risk.
@@ -38,7 +38,8 @@ We use logistic regression due to its effectiveness in binary classification tas
 
 ### Classification report for the model:
 
-![Screenshot 2024-06-01 152710](https://github.com/carojasp12/Credit-Risk-Classification/assets/152667250/fa92d06b-36d1-4a02-bb43-dd0ce856743c)
+![Screenshot 2024-06-01 152710](https://github.com/carojasp12/Credit-Risk-Classification/assets/152667250/d09291f5-3fdb-4b7c-a38d-ffc7a3fd4e03)
+
 
 - The model has a precision of 100% and a recall of 100% for healthy loans. For risky loans, the precision is 87% and the recall is 89%. The total accuracy of the model is 99%.
 
