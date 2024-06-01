@@ -40,7 +40,7 @@ Classification report for the model:
 
 ![Screenshot 2024-06-01 152710](https://github.com/carojasp12/Credit-Risk-Classification/assets/152667250/fa92d06b-36d1-4a02-bb43-dd0ce856743c)
 
-- The model has a precision of 100% and a recall of 99% for healthy loans. For risky loans, the precision is 87% and the recall is 89%. The total accuracy of the model is 99%.
+- The model has a precision of 100% and a recall of 100% for healthy loans. For risky loans, the precision is 87% and the recall is 89%. The total accuracy of the model is 99%.
 
 
 
