@@ -28,7 +28,7 @@ We use logistic regression due to its effectiveness in binary classification tas
 
 ## Results
 
-Confusion matrix for the model:
+### Confusion matrix for the model:
 
 ![Screenshot 2024-06-01 152252](https://github.com/carojasp12/Credit-Risk-Classification/assets/152667250/56aad5b0-526a-4a4c-b029-b14cbd38a43e)
 
@@ -36,7 +36,7 @@ Confusion matrix for the model:
 - The model predicted 558 as high risk loans correctly and 67 high risk loans incorrectly from a total loan status of 625 which were high risk.
 
 
-Classification report for the model:
+### Classification report for the model:
 
 ![Screenshot 2024-06-01 152710](https://github.com/carojasp12/Credit-Risk-Classification/assets/152667250/fa92d06b-36d1-4a02-bb43-dd0ce856743c)
 
