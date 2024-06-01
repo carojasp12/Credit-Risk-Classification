@@ -26,4 +26,15 @@ We use logistic regression due to its effectiveness in binary classification tas
 2.	Using the fitted model, we generate predictions for the testing data labels. This involves using the testing feature data X_test to predict the risk level of the loans.
 3.	To evaluate the performance of the model, we generate a confusion matrix and print a classification report to assess the model's accuracy, precision, recall, and F1-score.
 
+## Results
+
+Confusion matrix for the model:
+
+![Screenshot 2024-06-01 152252](https://github.com/carojasp12/Credit-Risk-Classification/assets/152667250/56aad5b0-526a-4a4c-b029-b14cbd38a43e)
+
+Classification report for the model:
+
+![Screenshot 2024-06-01 152710](https://github.com/carojasp12/Credit-Risk-Classification/assets/152667250/fa92d06b-36d1-4a02-bb43-dd0ce856743c)
+
+
 
