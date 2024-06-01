@@ -44,6 +44,6 @@ We use logistic regression due to its effectiveness in binary classification tas
 
 ## Summary
 
-The logistic regression model has a great accuracy of 99%, indicating that we could use it to evaluate the creditworthiness of borrowers. However, to confirm the model's trustworthiness, we should run it with a different dataset. Additionally, we should evaluate the quality of the dataset, as the model is heavily dependent on the quality and relevance of the data collected. Finally, we should identify the most relevant features that impact the creditworthiness of borrowers and determine how each feature independently influences their creditworthiness.
+The logistic regression model has a great accuracy of 99%, showing that we could use it to evaluate the creditworthiness of borrowers. However, to confirm the model's trustworthiness, we should run it with a different dataset. Additionally, we should evaluate the quality of the dataset, as the model dependents on the quality and relevance of the data collected. Finally, we should find the most relevant features that affect the creditworthiness of borrowers and determine how each feature independently influences their creditworthiness.
 
 
