@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Credit-Risk-Classification
 ![image](https://github.com/carojasp12/Credit-Risk-Classification/assets/152667250/0f0dbc32-1635-4457-bd18-f0dcaa3ae539)
 
@@ -46,8 +45,3 @@ We use logistic regression due to its effectiveness in binary classification tas
 ## Summary
 
 The logistic regression model has a great accuracy of 99%, showing that we could use it to evaluate the creditworthiness of borrowers. However, to confirm the model's trustworthiness, we should run it with a different dataset. Additionally, we should evaluate the quality of the dataset, as the model dependents on the quality and relevance of the data collected. Finally, we should find the most relevant features that affect the creditworthiness of borrowers and determine how each feature independently influences their creditworthiness.
-
-
-=======
-# Credit-Risk-Classification
->>>>>>> 2bf3ee63640e908ff6635b45252e6e5d5055c561
